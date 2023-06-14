@@ -1,4 +1,8 @@
-#
+# :wave:
+
+Full-stack Elixir and Python developer interested in the areas of web development, data engineering, and machine learning.
+
+For more information and articles about my work please visit my personal site [here](https://mvk.vc).
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
