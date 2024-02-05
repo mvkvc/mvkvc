@@ -41,7 +41,7 @@
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
 
 #### Libraries
-- [portboy](https://github.com/mvkvc/kino_fly): Easily call other languages from Elixir.
+- [portboy](https://github.com/mvkvc/portboy): Easily call other languages from Elixir.
 - [kino_util](https://github.com/mvkvc/kino_fly): Livebook smart cell to show system utilization.
 - [kino_fly](https://github.com/mvkvc/kino_fly): Livebook smart cell to interact with the Fly.io machines API.
 
