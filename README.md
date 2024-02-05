@@ -30,10 +30,12 @@
 - essential_elixir
 - dns_in_a_weekend
 -->
+<!---
+- [bitguide](https://github.com/mvkvc/bitguide): Drop-in LLM chat for your site that automatically knows your content.
+-->
 
 #### Applications
-- [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties with fast and cheap payments using Solana.
-- [bitguide](https://github.com/mvkvc/bitguide): Drop-in LLM chat for your site that automatically knows your content.
+- [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties and payments on Solana.
 - [critique](https://github.com/mvkvc/critique): Service to classify AI versus human-generated images.
 - [bank_crawl](https://github.com/mvkvc/bank_crawl): CLI to crawl central bank press releases.
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
