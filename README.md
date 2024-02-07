@@ -32,11 +32,11 @@
 -->
 <!---
 - [bitguide](https://github.com/mvkvc/bitguide): Drop-in LLM chat for your site that automatically knows your content.
--->
+
 
 #### Applications
 - [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties and payments on Solana.
-- [critique](https://github.com/mvkvc/critique): Service to classify AI versus human-generated images.
+- [critique](https://github.com/mvkvc/critique): DockYard academy capstone project classifying images as AI vs human generated.
 - [bank_crawl](https://github.com/mvkvc/bank_crawl): CLI to crawl central bank press releases.
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
 
@@ -47,3 +47,4 @@
 
 #### Resources
 - [axon_tutorials](https://github.com/mvkvc/axon_tutorials): Examples for the Axon deep learning library.
+-->
