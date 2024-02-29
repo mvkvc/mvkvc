@@ -1,4 +1,4 @@
-#### Applications
+### Applications
 
 <!-- - [replicant](https://github.com/mvkvc/replicant): Decentralized verification of LLM outputs. -->
 <!-- - [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties with fast and cheap payments using Solana. -->
@@ -11,16 +11,20 @@
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
 - [site](https://github.com/mvkvc/site): My personal site.
 
-#### Libraries
+### Libraries
 
 - [kino_util](https://github.com/mvkvc/kino_util): Livebook smart cell to show system utilization.
-- [kino_fly](https://github.com/mvkvc/kino_fly): Livebook smart cell to interact with the Fly.io machines API.
-- [portboy](https://github.com/mvkvc/kino_fly): Easily call other languages from Elixir.
+- [kino_fly](https://github.com/mvkvc/kino_fly): Livebook smart cell to display and interact with the Fly.io machines API.
+- [portboy](https://github.com/mvkvc/kino_fly): Elixir library for calling other languages with type validation.
 - [llama_cpp_nif](https://github.com/mvkvc/kino_fly): Elixir NIF for calling LLAMA.cpp from Rust.
 <!-- - [emblem](https://github.com/mvkvc/emblem): Tools for working with and evaluating embedding models. -->
 <!-- - [articuno](https://github.com/mvkvc/articuno): Convert your Phoenix application into a static site. -->
 
-#### Resources
+### Resources
 
 - [phx_react_sol](https://github.com/mvkvc/phx_react_sol): Example Phoenix application using the Solana React wallet adapter for authentication.
-- [axon_tutorials](https://github.com/mvkvc/axon_tutorials): Examples for the Axon deep learning library.
+- [axon_tutorials](https://github.com/mvkvc/axon_tutorials): Examples for the Axon Elixir deep learning library.
+
+### Talks
+
+- [cell_driven_development](https://github.com/einariii/cell_driven_development): Developing custom smart cells for Livebook.
