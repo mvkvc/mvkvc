@@ -7,6 +7,7 @@
 <!-- - [pinkie](https://github.com/mvkvc/pinkie): Self-hostable IPFS pinning server. -->
 <!-- - [walter](https://github.com/mvkvc/walter): Personal LLM handler inside Discord. -->
 - [critique](https://github.com/mvkvc/critique): Service to classify AI versus human-generated images.
+- [wandb_server_ex](https://github.com/mvkvc/wandb_server_ex): Training Axon models with W&B experiment tracking.
 - [bank_crawl](https://github.com/mvkvc/bank_crawl): CLI to crawl central bank press releases.
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
 - [site](https://github.com/mvkvc/site): My personal site.
@@ -22,9 +23,9 @@
 
 ### Resources
 
-- [phx_react_sol](https://github.com/mvkvc/phx_react_sol): Example Phoenix application using the Solana React wallet adapter for authentication.
-- [axon_tutorials](https://github.com/mvkvc/axon_tutorials): Examples for the Axon Elixir deep learning library.
+- [phx_react_sol](https://github.com/mvkvc/phx_react_sol): Example Phoenix application using Solana accounts for authentication.
+- [axon_tutorials](https://github.com/mvkvc/axon_tutorials): Examples for the Axon deep learning library.
 
 ### Talks
 
-- [cell_driven_development](https://github.com/einariii/cell_driven_development): Developing custom smart cells for Livebook.
+- [cell_driven_development](https://github.com/einariii/cell_driven_development): 23/06 Toronto Elixir meetup - Developing custom smart cells for Livebook.
