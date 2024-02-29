@@ -4,6 +4,8 @@
 <!-- - [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties with fast and cheap payments using Solana. -->
 <!-- - [bitguide](https://github.com/mvkvc/bitguide): Drop-in LLM chat for your site that automatically knows your content. -->
 <!-- - [pensieve](https://github.com/mvkvc/pensieve): Unstructured note taking with semantic search. -->
+<!-- - [pinkie](https://github.com/mvkvc/pinkie): Self-hostable IPFS pinning server. -->
+<!-- - [walter](https://github.com/mvkvc/walter): Personal LLM handler inside Discord. -->
 - [critique](https://github.com/mvkvc/critique): Service to classify AI versus human-generated images.
 - [bank_crawl](https://github.com/mvkvc/bank_crawl): CLI to crawl central bank press releases.
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
@@ -22,4 +24,3 @@
 
 - [phx_react_sol](https://github.com/mvkvc/phx_react_sol): Example Phoenix application using the Solana React wallet adapter for authentication.
 - [axon_tutorials](https://github.com/mvkvc/axon_tutorials): Examples for the Axon deep learning library.
--->
