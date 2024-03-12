@@ -1,16 +1,20 @@
-### Applications
+### Products
+
+- [replicantzk](https://github.com/replicantzk): Decentralized verification of AI outputs.
+<!-- - [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties with fast and cheap payments using Solana. -->
 <!-- - [bitguide](https://github.com/mvkvc/bitguide): Drop-in LLM chat for your site that automatically knows your content. -->
-<!-- - [pensieve](https://github.com/mvkvc/pensieve): Unstructured note taking with semantic search. -->
+
+### Applications
+
+<!-- - [bitflip](https://github.com/mvkvc/bitflip): Trustlessly exchange any MINA token for BTC. -->
 <!-- - [pinkie](https://github.com/mvkvc/pinkie): Self-hostable IPFS pinning server. -->
 <!-- - [walter](https://github.com/mvkvc/walter): Personal LLM handler inside Discord. -->
-<!-- - [replicant](https://github.com/mvkvc/replicant): Decentralized verification of LLM outputs. --
-<!-- - [bitflip](https://github.com/mvkvc/bitflip): Trustlessly exchange any MINA token for BTC. -->
-<!-- - [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties with fast and cheap payments using Solana. -->
 - [mina_btc_oracle](https://github.com/mvkvc/mina_btc_oracle): Posting Bitcoin block hashes on Mina.
 - [critique](https://github.com/mvkvc/critique): Service to classify if images are AI-generated.
 - [bank_crawl](https://github.com/mvkvc/bank_crawl): CLI to crawl central bank press releases.
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
 - [site](https://github.com/mvkvc/site): My personal website.
+- <!-- - [pensieve](https://github.com/mvkvc/pensieve): Unstructured note taking with semantic search. -->
 
 ### Libraries
 
@@ -29,4 +33,4 @@
 
 ### Talks
 
-- [cell_driven_development](https://github.com/einariii/cell_driven_development): 23/06 Toronto Elixir meetup - Developing custom Livebook smart cells.
+- [cell_driven_development](https://github.com/einariii/cell_driven_development): 23/06 Toronto Elixir meetup.
