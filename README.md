@@ -10,11 +10,11 @@
 <!-- - [pinkie](https://github.com/mvkvc/pinkie): Self-hostable IPFS pinning server. -->
 <!-- - [walter](https://github.com/mvkvc/walter): Personal LLM handler inside Discord. -->
 - [mina_btc_oracle](https://github.com/mvkvc/mina_btc_oracle): Posting Bitcoin block hashes on Mina.
-- [critique](https://github.com/mvkvc/critique): Service to classify if images are AI-generated.
+- [critique](https://github.com/mvkvc/critique): Classifying images as AI-generated or not.
 - [bank_crawl](https://github.com/mvkvc/bank_crawl): CLI to crawl central bank press releases.
 - [tcp_chat](https://github.com/mvkvc/tcp_chat): TCP chat server with rooms and server commands.
 - [site](https://github.com/mvkvc/site): My personal website.
-- <!-- - [pensieve](https://github.com/mvkvc/pensieve): Unstructured note taking with semantic search. -->
+<!-- - [pensieve](https://github.com/mvkvc/pensieve): Unstructured note taking with semantic search. -->
 
 ### Libraries
 
