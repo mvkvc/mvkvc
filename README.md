@@ -1,11 +1,8 @@
-### Products
-
-- [replicantzk](https://github.com/replicantzk): Decentralized verification of AI outputs.
-<!-- - [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties with fast and cheap payments using Solana. -->
-<!-- - [bitguide](https://github.com/mvkvc/bitguide): Drop-in LLM chat for your site that automatically knows your content. -->
-
 ### Applications
 
+<!-- - [replicantzk](https://github.com/replicantzk): Decentralized verification of AI outputs. -->
+<!-- - [bountisol](https://github.com/mvkvc/bountisol): Fully on-chain bounties with fast and cheap payments using Solana. -->
+<!-- - [bitguide](https://github.com/mvkvc/bitguide): Drop-in LLM chat for your site that automatically knows your content. -->
 <!-- - [bitflip](https://github.com/mvkvc/bitflip): Trustlessly exchange any MINA token for BTC. -->
 <!-- - [pinkie](https://github.com/mvkvc/pinkie): Self-hostable IPFS pinning server. -->
 <!-- - [walter](https://github.com/mvkvc/walter): Personal LLM handler inside Discord. -->
