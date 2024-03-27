@@ -15,9 +15,9 @@
 
 ### Libraries
 
+- [portboy](https://github.com/mvkvc/portbot): Elixir library for calling other languages through Ports with runtime validation.
 - [kino_util](https://github.com/mvkvc/kino_util): Livebook smart cell to show system utilization.
 - [kino_fly](https://github.com/mvkvc/kino_fly): Livebook smart cell to visualize and interact with the Fly.io machines API.
-- [portboy](https://github.com/mvkvc/portbot): Elixir library for calling other languages through Ports with runtime validation.
 - [llama_cpp_nif](https://github.com/mvkvc/llama_cpp_nif): Elixir NIF for calling LLAMA.cpp from Rust.
 - [wandb_server_ex](https://github.com/mvkvc/wandb_server_ex): Train Axon models with W&B experiment tracking.
 <!-- - [emblem](https://github.com/mvkvc/emblem): Tools for working with and evaluating embedding models. -->
